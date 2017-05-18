@@ -2,7 +2,7 @@ class Client {
   // **********************************************
   //      specific url
   // **********************************************
-  String api="AIzaSyAOFVs_fLIeh36yGFTiKGAGx2wDIH1fiJg"; 
+  String api="YOUR API HERE"; 
   String distance_Matrix_URL ="https://maps.googleapis.com/maps/api/distancematrix/json?";
   String direction_URL = "https://maps.googleapis.com/maps/api/directions/json?";
   // **********************************************
